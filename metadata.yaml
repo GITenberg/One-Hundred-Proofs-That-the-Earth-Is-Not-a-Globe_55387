@@ -1,0 +1,26 @@
+_repo: One-Hundred-Proofs-That-the-Earth-Is-Not-a-Globe_55387
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carpenter, William
+    birthdate: 1830
+    deathdate: 1896
+    gutenberg_agent_id: '46440'
+    url: http://www.gutenberg.org/2009/agents/46440
+    wikipedia: https://en.wikipedia.org/wiki/William_Carpenter_(flat_Earth_theorist)
+description: ''
+gutenberg_issued: '2017-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55387'
+  lccn: '52055019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Earth (Planet) -- Miscellanea'
+- !lcc 'QB'
+- GITenberg
+title: One Hundred Proofs That the Earth Is Not a Globe
+url: http://www.gutenberg.org/ebooks/55387
