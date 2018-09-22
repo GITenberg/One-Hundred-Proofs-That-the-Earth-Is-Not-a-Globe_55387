@@ -1,5 +1,8 @@
 _repo: One-Hundred-Proofs-That-the-Earth-Is-Not-a-Globe_55387
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55387-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Carpenter, William
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46440
     wikipedia: https://en.wikipedia.org/wiki/William_Carpenter_(flat_Earth_theorist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55387#One-Hundred-Proofs-That-the-Earth-Is-Not-a-Globe
 gutenberg_issued: '2017-08-19'
 gutenberg_type: Text
 identifiers:
